@@ -90,7 +90,7 @@ export default function Hero() {
           margin: 4, overflow: 'hidden',
         }}>
           {/* Replace this span with <img src="your-photo.jpg" style={{width:'100%',height:'100%',objectFit:'cover'}} /> */}
-            <img src="portfolio.jpeg" alt="Hasnain Saeed" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <img src="/portfolio.jpeg" alt="Hasnain Saeed" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
         </div>
 
         {/* Floating badge */}
